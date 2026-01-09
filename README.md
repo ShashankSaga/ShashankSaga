@@ -1,11 +1,11 @@
 <!-- Header Wave -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shashank%20Reddy&fontSize=40&fontAlignY=35&desc=Building%20the%20Future,%20One%20Commit%20at%20a%20Time&descAlignY=55&color=gradient&customColorList=6,11,20"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shashank%20Reddy&fontSize=50&fontAlignY=35&desc=Building%20the%20Future,%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=20&color=gradient&customColorList=6,11,20"/>
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Educator+%40+3Qverse+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+Web+Dev+%F0%9F%9A%80;NxtWave+CCBP+4.0+Scholar+%E2%AD%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Educator+%40+3Qverse+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+Web+Development+%F0%9F%9A%80;NxtWave+CCBP+4.0+Scholar+%E2%AD%90" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -21,7 +21,18 @@
 
 ---
 
-## 💫 Tech Stack
+## 🔥 GitHub Streak & Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankSaga&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F7B801&fire=F7B801&currStreakLabel=F7B801"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShashankSaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B801&icon_color=F7B801&text_color=FFFFFF"/>
+</div>
+
+<br/>
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
   
@@ -42,13 +53,17 @@
 
 </div>
 
+<br/>
+
 ---
 
-## 📊 Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankSaga&bg_color=0d1117&color=f7b801&line=f7b801&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
+
+<br/>
 
 ---
 
@@ -56,7 +71,7 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
 
-### 🚀 **Who Am I?**
+### 🚀 Who Am I?
 
 ```python
 class ShashankReddy:
@@ -86,14 +101,17 @@ class ShashankReddy:
         ]
 ```
 
-### ✨ **My Journey**
-- 🎓 **CS student | Tech educator | Builder**
-- 🚀 Full-stack trainee at **NxtWave CCBP 4.0**, working on hands-on projects
-- 💡 Focused on open source, technical blogging, and teaching tech in Telugu
-- 🛠 Python & web enthusiast who learns by building and sharing
-- 🤝 Open to internships and collaborations
+<br clear="right"/>
 
-**💪 Learning. Building. Sharing. Repeating.**
+### ✨ My Journey
+
+- 🎓 **CS Student | Tech Educator | Builder**
+- 🚀 Full-stack trainee at **NxtWave CCBP 4.0**, mastering real-world development
+- 💡 Passionate about **open source**, **technical blogging**, and **teaching in Telugu**
+- 🛠 Building projects that solve real problems
+- 🤝 Open to **internships** and **collaborations**
+
+<br/>
 
 ---
 
@@ -105,21 +123,7 @@ class ShashankReddy:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 😂 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</div>
+<br/>
 
 ---
 
@@ -136,15 +140,17 @@ class ShashankReddy:
 
 </div>
 
+<br/>
+
 ---
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
+</div>
 
 <div align="center">
   
 ### 💙 Thanks for visiting! Show some ❤️ by starring repositories!
-  
-**"The only way to do great work is to love what you do." - Steve Jobs**
 
 </div>
