@@ -105,6 +105,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 📊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankSaga&bg_color=0d1117&color=f7b801&line=f7b801&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🐍 Contribution Snake
 
 <picture>
