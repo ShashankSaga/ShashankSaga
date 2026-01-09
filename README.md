@@ -1,94 +1,187 @@
 <!-- Header Wave -->
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=C9A227" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shashank%20Reddy&fontSize=40&fontAlignY=35&desc=Building%20the%20Future,%20One%20Commit%20at%20a%20Time&descAlignY=55&color=gradient&customColorList=6,11,20"/>
 </div>
 
-<!-- Title -->
-<h1 align="center">
-  Hi 👋! I'm Shashank Reddy
-</h1>
-
-<h3 align="center">
-  Educator @3Qverse | Python & Web Development | NxtWave CCBP 4.0 Scholar
-</h3>
-
-<!-- Visitor Badge -->
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShashankSaga.ShashankSaga&left_color=blueviolet&right_color=darkgray" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Educator+%40+3Qverse+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+Web+Dev+%F0%9F%9A%80;NxtWave+CCBP+4.0+Scholar+%E2%AD%90" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- Tech Stack Icons -->
+<!-- Badges -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=java" height="30"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=js" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=ShashankSaga&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/ShashankSaga?style=for-the-badge&color=blue&labelColor=1a1b27&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/ShashankSaga?style=for-the-badge&color=yellow&labelColor=1a1b27&label=STARS"/>
 </div>
 
 <br/>
 
-<!-- About Section -->
-<h3>👋 About Me</h3>
+---
 
-<ul>
-  <li>🎓 <b>CS student | Tech educator | Builder</b></li>
-  <li>🚀 Full-stack trainee at <b>NxtWave CCBP 4.0</b>, working on hands-on projects and real-world challenges</li>
-  <li>💡 Focused on open source, technical blogging, and teaching tech in Telugu via <b>@3Qverse</b></li>
-  <li>🛠 Python & web enthusiast who learns by building, iterating, and sharing in public</li>
-  <li>🤝 Open to internships and collaborations</li>
-</ul>
+## 🔥 GitHub Streak & Stats
 
-<p><b>✨ Learning. Building. Sharing. Repeating.</b></p>
-
-<!-- Social Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/shashanksaga" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=flat" height="36"/>
-  </a>
-  <img width="10"/>
-  <a href="https://www.instagram.com/shashanksaga" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=flat" height="36"/>
-  </a>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankSaga&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F7B801&fire=F7B801&currStreakLabel=F7B801"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShashankSaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B801&icon_color=F7B801&text_color=FFFFFF"/>
 </div>
 
-<br/>
+---
 
-<!-- Right-side GIF -->
-<img align="right" height="150" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+## 💫 Tech Stack
 
-<!-- Snake Animation -->
-<h3>🐍 Contribution Snake</h3>
+<div align="center">
+  
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,sass&theme=dark" />
+</p>
 
-<img src="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,nodejs,postgresql,mongodb,mysql&theme=dark" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,linux&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankSaga&bg_color=0d1117&color=f7b801&line=f7b801&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🎯 About Me
+
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
+
+### 🚀 **Who Am I?**
+
+```python
+class ShashankReddy:
+    def __init__(self):
+        self.name = "Shashank Reddy"
+        self.role = "Educator & Full-Stack Developer"
+        self.location = "India 🇮🇳"
+        self.education = "NxtWave CCBP 4.0 Scholar"
+        self.company = "3Qverse"
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "Java", "C++"],
+            "frontend": ["React", "HTML5", "CSS3", "Tailwind"],
+            "backend": ["FastAPI", "Node.js", "REST APIs"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+            "tools": ["Git", "VS Code", "Postman", "Android Studio"]
+        }
+    
+    def current_focus(self):
+        return [
+            "🎓 Teaching tech in Telugu via @3Qverse",
+            "💻 Building real-world full-stack projects",
+            "📝 Technical blogging & content creation",
+            "🤝 Contributing to open source",
+            "🔍 Seeking internship opportunities"
+        ]
+```
+
+### ✨ **My Journey**
+- 🎓 **CS student | Tech educator | Builder**
+- 🚀 Full-stack trainee at **NxtWave CCBP 4.0**, working on hands-on projects
+- 💡 Focused on open source, technical blogging, and teaching tech in Telugu
+- 🛠 Python & web enthusiast who learns by building and sharing
+- 🤝 Open to internships and collaborations
+
+**💪 Learning. Building. Sharing. Repeating.**
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashankSaga&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+</div>
+
+---
+
+## 📈 Language Stats
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankSaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B801&text_color=FFFFFF&langs_count=8"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 😂 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashanksaga)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shashanksaga)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@3Qverse)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💝 Support My Work
+
+<div align="center">
+  
+If you like what I do, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+
+</div>
+
+---
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0A192F"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
+
+<div align="center">
+  
+### 💙 Thanks for visiting! Show some ❤️ by starring repositories!
+  
+**"The only way to do great work is to love what you do." - Steve Jobs**
+
+</div>
