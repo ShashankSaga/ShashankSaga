@@ -21,15 +21,6 @@
 
 ---
 
-## 🔥 GitHub Streak & Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankSaga&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F7B801&fire=F7B801&currStreakLabel=F7B801"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShashankSaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B801&icon_color=F7B801&text_color=FFFFFF"/>
-</div>
-
----
-
 ## 💫 Tech Stack
 
 <div align="center">
@@ -106,22 +97,6 @@ class ShashankReddy:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashankSaga&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
----
-
-## 📈 Language Stats
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankSaga&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B801&text_color=FFFFFF&langs_count=8"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
@@ -153,23 +128,11 @@ class ShashankReddy:
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashanksaga)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shashanksaga)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@3Qverse)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/3qverse?igsh=aHd1MDhja3IwZ2g5)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ShashankSaga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shashank-reddy-portfolio.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://3qverse.hashnode.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 💝 Support My Work
-
-<div align="center">
-  
-If you like what I do, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
 </div>
 
