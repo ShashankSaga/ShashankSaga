@@ -21,17 +21,6 @@
 
 ---
 
-## 🔥 GitHub Streak & Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShashankSaga&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F7B801&fire=F7B801&currStreakLabel=F7B801"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShashankSaga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B801&icon_color=F7B801&text_color=FFFFFF"/>
-</div>
-
-<br/>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
