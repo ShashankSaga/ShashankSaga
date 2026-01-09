@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Educator+%40+3Qverse+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+Web+Development+%F0%9F%9A%80;NxtWave+CCBP+4.0+Scholar+%E2%AD%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&repeat=true&width=600&lines=Educator+%40+3Qverse+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+React+%7C+Web+Dev+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -19,7 +19,45 @@
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💻 About Me
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGwzajRuNzVicGFuazk0MXgwZnEzY3p3dDRtd2tnNW12ZjI0MHZxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" width="600"/>
+</div>
+
+<br/>
+
+**CS Student | Tech Educator | Full-Stack Developer**
+
+🎓 NxtWave CCBP 4.0 Scholar | Teaching tech in Telugu via **@3Qverse**  
+💻 Building real-world projects with **Python, React & Web Technologies**
+
+<details>
+  <summary>🚀 Current Focus</summary>
+  
+  - 🎓 Teaching tech in Telugu via @3Qverse
+  - 💻 Building real-world full-stack projects
+  - 📝 Technical blogging & content creation
+  - 🤝 Contributing to open source
+  - 🔍 Seeking internship opportunities
+	
+</details>
+
+<details>
+  <summary>🎯 My Journey</summary>
+  
+  - Full-stack trainee at **NxtWave CCBP 4.0**
+  - Passionate about **open source** and **teaching in Telugu**
+  - 🛠 Building projects that solve real problems
+  - 🤝 Open to **internships** and **collaborations**
+    
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💻 Tech Stack
 
@@ -44,82 +82,16 @@
 
 <br/>
 
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankSaga&bg_color=0d1117&color=f7b801&line=f7b801&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## 🎯 About Me
-
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
-
-### 🚀 Who Am I?
-
-```python
-class ShashankReddy:
-    def __init__(self):
-        self.name = "Shashank Reddy"
-        self.role = "Educator & Full-Stack Developer"
-        self.location = "India 🇮🇳"
-        self.education = "NxtWave CCBP 4.0 Scholar"
-        self.company = "3Qverse"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "Java", "C++"],
-            "frontend": ["React", "HTML5", "CSS3", "Tailwind"],
-            "backend": ["FastAPI", "Node.js", "REST APIs"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
-            "tools": ["Git", "VS Code", "Postman", "Android Studio"]
-        }
-    
-    def current_focus(self):
-        return [
-            "🎓 Teaching tech in Telugu via @3Qverse",
-            "💻 Building real-world full-stack projects",
-            "📝 Technical blogging & content creation",
-            "🤝 Contributing to open source",
-            "🔍 Seeking internship opportunities"
-        ]
-```
-
-<br clear="right"/>
-
-### ✨ My Journey
-
-- 🎓 **CS Student | Tech Educator | Builder**
-- 🚀 Full-stack trainee at **NxtWave CCBP 4.0**, mastering real-world development
-- 💡 Passionate about **open source**, **technical blogging**, and **teaching in Telugu**
-- 🛠 Building projects that solve real problems
-- 🤝 Open to **internships** and **collaborations**
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📫 Connect With Me
 
 <div align="center">
   
+<img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc5NTc0MjcsIm5iZiI6MTc2Nzk1NzEyNywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA5VDExMTIwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3M2FmYjQ1YjAyNzg0MWMyMGY3YTgzNTQ1M2NjNzE1NzNlY2UxYzk2NTczZjk4ZmU3YThhM2MxZGZiNGEzMzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VL6hCXZNBEAkKM4sfnYkZMlS8hOg1HVNz6D8KYg1w1Q" width="100"/>
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashanksaga)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/3qverse?igsh=aHd1MDhja3IwZ2g5)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ShashankSaga)
@@ -131,7 +103,19 @@ class ShashankReddy:
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShashankSaga/ShashankSaga/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Footer Wave -->
 <div align="center">
